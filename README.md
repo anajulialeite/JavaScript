@@ -1,8 +1,6 @@
 # JavaScript
  Curso de JavaScript do CursoemVideo
 
- Aqui estão todos os exercícios:
-
  <img src="Imagens/mascote-javascript.png" align="right" width="300">
 
  # Curso de JavaScript
