@@ -1,5 +1,7 @@
 # JavaScript
- Curso de JavaScript do CursoemVideo
+ Curso de JavaScript do CursoemVideo + Curso Bradesco na plataforma ADA.
+
+ Todas as aulas estão juntas, pois se trata da mesma linguagem de programação!
 
  <img src="Imagens/mascote-javascript.png" align="right" width="300">
 
