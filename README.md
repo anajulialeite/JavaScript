@@ -1,4 +1,10 @@
+# JavaScript
+ 
  <img src="Imagens/mascote-javascript.png" align="right" width="300">
+
+ Aqui estão todos os exercícios e alguns projetos que correspondem com o curso de JavaScript do CursoemVideo:
+
+ 
 
  # Curso de JavaScript
 
