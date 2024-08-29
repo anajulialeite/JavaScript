@@ -1,6 +1,7 @@
 Códigos:
 
-Para estes comandos funcionar eles tem que ser escritos no DevTools no Console
+Para estes comandos funcionar eles tem que ser escritos no DevTools no Console!!!
+
 alert.("Olá, mundo!") 
 O Google diz olá mundo! Esse código foi testado no site do Google.
 
