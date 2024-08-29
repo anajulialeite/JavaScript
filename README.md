@@ -4,6 +4,7 @@
 
  Aqui estão todos os exercícios e alguns projetos que correspondem com o curso de JavaScript do CursoemVideo:
 
+<a href="https://anajulialeite.github.io/JavaScript/Aula04/EX001.html">Acesse a Aula 04></a>
  
 <a href="https://developer.mozilla.org/pt-BR/">Acesse a documentação oficial</a>
 
