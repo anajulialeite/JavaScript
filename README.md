@@ -5,6 +5,8 @@
  Aqui estão todos os exercícios e alguns projetos que correspondem com o curso de JavaScript do CursoemVideo:
 
  
+<a href="https://developer.mozilla.org/pt-BR/">Acesse a documentação oficial</a>
+
 
  # Curso de JavaScript
 
