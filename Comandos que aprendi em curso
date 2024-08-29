@@ -1,0 +1,17 @@
+Códigos:
+
+Para estes comandos funcionar eles tem que ser escritos no DevTools no Console
+alert.("Olá, mundo!") 
+O Google diz olá mundo! Esse código foi testado no site do Google.
+
+document.body.style.background = "black"
+Muda a cor do fundo da página, pode ser testado em qualquer cor, em qualquer site.
+
+document.quarySelector("img#hplolgo")style.filter = "grayscale(100%)"
+O site fica todo em cinza
+
+document.querySelector("img#hplogo")style.visibility = "hidden"
+Esconde a logo do Google.
+
+document.querySelector("span.bstn-hl-title")innerText = "O curso de JavaScrip do Curso em Vídeo é o melhor curso do mundo"
+Muda o texto do site do G1, este código foi testado no site do G1, você pode dar print e depois divulgar como se a notícia fosse verdadeira para mostrar para os amigos que sabe editar!
