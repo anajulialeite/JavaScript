@@ -1,6 +1,3 @@
-# JavaScript
- Curso de JavaScript do CursoemVideo.
-
  <img src="Imagens/mascote-javascript.png" align="right" width="300">
 
  # Curso de JavaScript
