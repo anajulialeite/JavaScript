@@ -11,6 +11,12 @@
 <a href="https://anajulialeite.github.io/JavaScript/Aula06/Ex002.html">Acesse a Aula 06.01</a>
 
 <a href="https://anajulialeite.github.io/JavaScript/Aula06/EX003.html">Acesse a Aula 06.02</a>
+
+<a href="https://anajulialeite.github.io/JavaScript/Aula09/Ex001.html">Acesse a Aula 09</a>
+
+<a href="https://anajulialeite.github.io/JavaScript/Aula10/EX001.html">Acesse a Aula 10</a>
+
+<a href="https://anajulialeite.github.io/JavaScript/Aula10/Ex002.html">Acesse a Aula 10.01</a>
  
 <a href="https://developer.mozilla.org/pt-BR/">Acesse a documentação oficial</a>
 
