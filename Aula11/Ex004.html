@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Você é brasileiro ou estrangeiro?</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 20px;
+        }
+
+        #resultado {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Verificação de nacionalidade</h1>
+    <form id="formulario">
+        <label for="pais">Digite o nome do país:</label>
+        <input type="text" id="pais" name="pais">
+        <button type="submit">Verificar</button>
+    </form>
+    <div id="resultado"></div>
+    <script>
+        document.getElementById('formulario').addEventListener('submit', function(event) {
+            event.preventDefault(); 
+
+            var pais = document.getElementById('pais').value.trim();
+            var resultado = document.getElementById('resultado');
+
+            if (pais === "Brasil") {
+                resultado.textContent = "Você é Brasileiro!";
+            } else if (pais === "EUA" || pais === "Estados Unidos" || pais === "Estados Unidos da América") {
+                resultado.textContent = "Você é Estrangeiro!";
+            } else {
+                resultado.textContent = "País não reconhecido!";
+            }
+        });
+    </script>
+</body>
+</html>
