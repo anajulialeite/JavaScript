@@ -30,10 +30,11 @@
 
 <a href="https://anajulialeite.github.io/JavaScript/Aula18/Modelo.html">Acesse a Aula 18</a>
  
+OBS: Você vai perceber que parece que as aulas não tem uma sequência correta, isso aconteceu porque as aulas que não constam no repositório são somente em teoria, aqui consta somente as aulas práticas!
+
 <a href="https://developer.mozilla.org/pt-BR/">Acesse a documentação oficial</a>
 
-
- # Curso de JavaScript
+# Curso de JavaScript
 
 Material público para o ensino básico de JavaScript para alunos iniciantes. Acesse o material em PDF, analise o código disponibilizado para cada exercício e veja-os funcionando em execução direta via repositório GitHub.
 
