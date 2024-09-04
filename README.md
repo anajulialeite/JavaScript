@@ -29,6 +29,8 @@
 <a href="https://anajulialeite.github.io/JavaScript/Aula17/Modelo.html">Acesse a Aula 17</a>
 
 <a href="https://anajulialeite.github.io/JavaScript/Aula18/Modelo.html">Acesse a Aula 18</a>
+
+<a href="https://anajulialeite.github.io/JavaScript/Aula21/Modelo.html">Acesse a Aula 21</a>
  
 OBS: Você vai perceber que parece que as aulas não tem uma sequência correta, isso aconteceu porque as aulas que não constam no repositório são somente em teoria, aqui consta somente as aulas práticas!
 
