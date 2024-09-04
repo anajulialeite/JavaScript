@@ -27,6 +27,8 @@
 <a href="https://anajulialeite.github.io/JavaScript/Aula14/Modelo.html">Acesse a Aula 14</a>
 
 <a href="https://anajulialeite.github.io/JavaScript/Aula17/Modelo.html">Acesse a Aula 17</a>
+
+<a href="https://anajulialeite.github.io/JavaScript/Aula18/Modelo.html">Acesse a Aula 18</a>
  
 <a href="https://developer.mozilla.org/pt-BR/">Acesse a documentação oficial</a>
 
