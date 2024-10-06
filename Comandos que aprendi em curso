@@ -8,7 +8,7 @@ O Google diz olá mundo! Esse código foi testado no site do Google.
 document.body.style.background = "black"
 Muda a cor do fundo da página, pode ser testado em qualquer cor, em qualquer site.
 
-document.quarySelector("img#hplolgo")style.filter = "grayscale(100%)"
+document.quarySelector("img#hplogo")style.filter = "grayscale(100%)"
 O site fica todo em cinza
 
 document.querySelector("img#hplogo")style.visibility = "hidden"
