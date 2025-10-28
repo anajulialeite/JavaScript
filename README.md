@@ -1,8 +1,8 @@
 # JavaScript
  
- <img src="Imagens/mascote-javascript.png" align="right" width="300">
+<img src="Imagens/mascote-javascript.png" align="right" width="300">
 
- Aqui estão todos os exercícios e alguns projetos que correspondem com o curso de JavaScript do CursoemVideo:
+Aqui estão todos os exercícios e alguns projetos que correspondem com o curso de JavaScript do CursoemVideo:
 
 <a href="https://anajulialeite.github.io/JavaScript/Aula04/EX001.html">Acesse a Aula 04</a>
 
@@ -37,7 +37,7 @@ Este repositório contém prints dos slides do Gustavo Guanabara que julguei ser
 
 <a href="https://developer.mozilla.org/pt-BR/">Acesse a documentação oficial</a>
 
-# Curso de JavaScript
+## Curso de JavaScript
 
 Material público para o ensino básico de JavaScript para alunos iniciantes. Acesse o material em PDF, analise o código disponibilizado para cada exercício e veja-os funcionando em execução direta via repositório GitHub.
 
