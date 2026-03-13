@@ -44,7 +44,10 @@ function verificar() {
             }
         }
         res.style.textAlign = "center"
-        res.innerHTML = `Detectamos ${gênero} com ${idade} anos.`
+        res.innerHTML = ""
         res.appendChild(img)
+        var texto = document.createElement("p")
+        texto.textContent = `Detectamos ${gênero} com ${idade} anos.`
+        res.appendChild(texto)
     }
 }
